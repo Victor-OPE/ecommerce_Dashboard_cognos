@@ -41,4 +41,4 @@ Columns include:
 
 ## 🔍 Dashboard Preview
 
-![E-commerce Dashboard](./Dash-Board_Overview)
+![E-commerce Dashboard](./Dash-Board_Overview.jpeg)
